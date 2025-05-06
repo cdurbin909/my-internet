@@ -2073,7 +2073,7 @@
       "no footer": "footer{\n  display: none !important;\n}"
     },
     "omeda.city.css": {
-      "transparency": ":root {\n--main-bg-darker-color: rgba(25, 25, 35, .6);\n--main-bg-even-darker-color: rgba(20, 20, 30, 0.75)\n}"
+      "transparency": ":root {\n--main-bg-darker-color: rgba(25, 25, 35, .6);\n--main-bg-even-darker-color: rgba(20, 20, 30, 0.75)\n}\nhtml,\nbody,\nnav,\n#nav,\n.nav,\nnavbar,\n.navbar,\n#navbar\nheader,\n#header,\n.header,\napp,\n#app,\n.app,\n.app-root,\n#pass-sidebar,\n#main,\nmain,\n#content,\nsection,\n#__next,\n#navigation-wrapper,\n#global-navbar,\n#instruction,\n.head.notfixed,\n.bottom-nav-bar ,\n.hdrlt,\n.spelling-results-panel,\nbody.dark_mode, body.light_mode,\n.lpviewbox{\n  background-color: transparent !important;\n  background: none !important;\n  border: none !important;\n  box-shadow: none !important;\n  transition: background-color 0.5s ease-in-out, background 0.5s ease-in-out, border 0.5s ease-in-out, box-shadow 0.5s ease-in-out !important;\n}\n\n.lpbackground{\n  display: none !important;\n}",
     }
   }
 }
